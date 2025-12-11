@@ -1,0 +1,22 @@
+# Python environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Logs
+build_log_*.txt
+*.log
+
+# Local storage mounts / Termux storage
+storage/
+storage/*
+
+# OS / editor files
+.DS_Store
+*.swp
+*.swo
